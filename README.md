@@ -4,7 +4,7 @@
 
 <p align="center">
   <a href="https://deepanshuprtfl.vercel.app"><img alt="Portfolio" src="https://img.shields.io/badge/-1A1B26?style=for-the-badge&logo=vercel&logoColor=7AA2F7" /></a>
-  <a href="https://www.linkedin.com/in/deepanshusagore"><img alt="LinkedIn" src="https://img.shields.io/badge/-1A1B26?style=for-the-badge&logo=linkedin&logoColor=7AA2F7" /></a>
+  <a href="https://www.linkedin.com/in/deepanshusagore"><img alt="LinkedIn" src="https://img.shields.io/badge/-1A1B26?style=for-the-badge&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0iI2ZmZiI%2BPHBhdGggZD0iTTE5IDBINWE1IDUgMCAwMC01IDV2MTRhNSA1IDAgMDA1IDVoMTRhNSA1IDAgMDA1LTVWNWE1IDUgMCAwMC01LTV6TTggMTlINVY4aDN2MTF6TTYuNSA2LjdhMS44IDEuOCAwIDExMC0zLjUgMS44IDEuOCAwIDAxMCAzLjV6TTIwIDE5aC0zdi01LjZjMC0zLjQtNC0zLjEtNCAwVjE5aC0zVjhoM3YxLjhjMS40LTIuNiA3LTIuOCA3IDIuNVYxOXoiLz48L3N2Zz4%3D&logoColor=7AA2F7" /></a>
   <a href="mailto:deepanshusagore@gmail.com"><img alt="Email" src="https://img.shields.io/badge/-1A1B26?style=for-the-badge&logo=gmail&logoColor=7AA2F7" /></a>
 </p>
 
