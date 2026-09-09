@@ -2,17 +2,61 @@
 
 <p align="center">Full-stack &amp; GenAI engineer · India</p>
 
-<p align="center">RAG pipelines, FastAPI backends, Next.js front ends. Everything below is deployed.</p>
-
-<p align="center"><i>enslaved by narcissism and logical thinking.</i></p>
-
 <p align="center">
-  <a href="https://deepanshuprtfl.vercel.app"><img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-1A1B26?style=for-the-badge&logo=vercel&logoColor=7AA2F7" /></a>
+  <a href="https://deepanshuprtfl.vercel.app"><img alt="Portfolio" src="https://img.shields.io/badge/-1A1B26?style=for-the-badge&logo=vercel&logoColor=7AA2F7" /></a>
+  <a href="https://www.linkedin.com/in/deepanshusagore"><img alt="LinkedIn" src="https://img.shields.io/badge/-1A1B26?style=for-the-badge&logo=linkedin&logoColor=7AA2F7" /></a>
+  <a href="mailto:deepanshusagore@gmail.com"><img alt="Email" src="https://img.shields.io/badge/-1A1B26?style=for-the-badge&logo=gmail&logoColor=7AA2F7" /></a>
 </p>
 
 <p align="center">
   <b>21</b> public repos &nbsp;·&nbsp; <b>666</b> contributions since Oct 2024 &nbsp;·&nbsp; <b>291</b> commits &nbsp;·&nbsp; one patch merged into a <b>4,489★</b> repo
 </p>
+
+---
+
+## Stack
+
+<table>
+<tr>
+<td width="150" valign="middle"><b>Languages</b></td>
+<td valign="middle">
+  <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-1A1B26?style=for-the-badge&logo=typescript&logoColor=7AA2F7" />
+  <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-1A1B26?style=for-the-badge&logo=javascript&logoColor=7AA2F7" />
+  <img alt="Python" src="https://img.shields.io/badge/Python-1A1B26?style=for-the-badge&logo=python&logoColor=7AA2F7" />
+  <img alt="C++" src="https://img.shields.io/badge/C%2B%2B-1A1B26?style=for-the-badge&logo=cplusplus&logoColor=7AA2F7" />
+</td>
+</tr>
+<tr>
+<td width="150" valign="middle"><b>Front end</b></td>
+<td valign="middle">
+  <img alt="React" src="https://img.shields.io/badge/React-1A1B26?style=for-the-badge&logo=react&logoColor=BB9AF7" />
+  <img alt="Next.js" src="https://img.shields.io/badge/Next.js-1A1B26?style=for-the-badge&logo=nextdotjs&logoColor=BB9AF7" />
+  <img alt="Vite" src="https://img.shields.io/badge/Vite-1A1B26?style=for-the-badge&logo=vite&logoColor=BB9AF7" />
+  <img alt="Tailwind CSS" src="https://img.shields.io/badge/Tailwind-1A1B26?style=for-the-badge&logo=tailwindcss&logoColor=BB9AF7" />
+  <img alt="Three.js" src="https://img.shields.io/badge/Three.js-1A1B26?style=for-the-badge&logo=threedotjs&logoColor=BB9AF7" />
+  <img alt="Framer Motion" src="https://img.shields.io/badge/Framer%20Motion-1A1B26?style=for-the-badge&logo=framer&logoColor=BB9AF7" />
+</td>
+</tr>
+<tr>
+<td width="150" valign="middle"><b>Back end &amp; data</b></td>
+<td valign="middle">
+  <img alt="Node.js" src="https://img.shields.io/badge/Node.js-1A1B26?style=for-the-badge&logo=nodedotjs&logoColor=9ECE6A" />
+  <img alt="FastAPI" src="https://img.shields.io/badge/FastAPI-1A1B26?style=for-the-badge&logo=fastapi&logoColor=9ECE6A" />
+  <img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-1A1B26?style=for-the-badge&logo=postgresql&logoColor=9ECE6A" />
+  <img alt="MongoDB" src="https://img.shields.io/badge/MongoDB-1A1B26?style=for-the-badge&logo=mongodb&logoColor=9ECE6A" />
+  <img alt="SQLite" src="https://img.shields.io/badge/SQLite-1A1B26?style=for-the-badge&logo=sqlite&logoColor=9ECE6A" />
+  <img alt="Supabase" src="https://img.shields.io/badge/Supabase-1A1B26?style=for-the-badge&logo=supabase&logoColor=9ECE6A" />
+  <img alt="Firebase" src="https://img.shields.io/badge/Firebase-1A1B26?style=for-the-badge&logo=firebase&logoColor=9ECE6A" />
+</td>
+</tr>
+<tr>
+<td width="150" valign="middle"><b>Tooling</b></td>
+<td valign="middle">
+  <img alt="Docker" src="https://img.shields.io/badge/Docker-1A1B26?style=for-the-badge&logo=docker&logoColor=FF9E64" />
+  <img alt="Git" src="https://img.shields.io/badge/Git-1A1B26?style=for-the-badge&logo=git&logoColor=FF9E64" />
+</td>
+</tr>
+</table>
 
 ---
 
@@ -81,30 +125,10 @@ Two patches into codebases I use. One merged, one still waiting on review.
 
 ---
 
-## Volume
-
-Account created 2024-10-20. 17 repositories created in 2026.
-
-| | 2024 | 2025 | 2026 | Total |
-| :--- | ---: | ---: | ---: | ---: |
-| **Contributions** | 5 | 156 | 505 | **666** |
-| **Commits** | 1 | 37 | 253 | **291** |
-
 <p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com/?user=DeepanshuSagore&theme=github-dark-blue&disable_animations=true" />
     <img alt="Contribution streak for DeepanshuSagore" src="https://streak-stats.demolab.com/?user=DeepanshuSagore&theme=default&disable_animations=true" />
-  </picture>
-</p>
-
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=DeepanshuSagore&theme=github_dark" />
-    <img width="49%" alt="Repositories per language" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=DeepanshuSagore&theme=default" />
-  </picture>
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=DeepanshuSagore&theme=github_dark" />
-    <img width="49%" alt="Most committed language" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=DeepanshuSagore&theme=default" />
   </picture>
 </p>
 
@@ -120,65 +144,6 @@ Account created 2024-10-20. 17 repositories created in 2026.
 </details>
 
 ---
-
-## Stack
-
-<table>
-<tr>
-<td width="150" valign="middle"><b>Languages</b></td>
-<td valign="middle">
-  <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-1A1B26?style=for-the-badge&logo=typescript&logoColor=7AA2F7" />
-  <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-1A1B26?style=for-the-badge&logo=javascript&logoColor=7AA2F7" />
-  <img alt="Python" src="https://img.shields.io/badge/Python-1A1B26?style=for-the-badge&logo=python&logoColor=7AA2F7" />
-  <img alt="C++" src="https://img.shields.io/badge/C%2B%2B-1A1B26?style=for-the-badge&logo=cplusplus&logoColor=7AA2F7" />
-</td>
-</tr>
-<tr>
-<td width="150" valign="middle"><b>Front end</b></td>
-<td valign="middle">
-  <img alt="React" src="https://img.shields.io/badge/React-1A1B26?style=for-the-badge&logo=react&logoColor=BB9AF7" />
-  <img alt="Next.js" src="https://img.shields.io/badge/Next.js-1A1B26?style=for-the-badge&logo=nextdotjs&logoColor=BB9AF7" />
-  <img alt="Vite" src="https://img.shields.io/badge/Vite-1A1B26?style=for-the-badge&logo=vite&logoColor=BB9AF7" />
-  <img alt="Tailwind CSS" src="https://img.shields.io/badge/Tailwind-1A1B26?style=for-the-badge&logo=tailwindcss&logoColor=BB9AF7" />
-  <img alt="Three.js" src="https://img.shields.io/badge/Three.js-1A1B26?style=for-the-badge&logo=threedotjs&logoColor=BB9AF7" />
-  <img alt="Framer Motion" src="https://img.shields.io/badge/Framer%20Motion-1A1B26?style=for-the-badge&logo=framer&logoColor=BB9AF7" />
-</td>
-</tr>
-<tr>
-<td width="150" valign="middle"><b>Back end &amp; data</b></td>
-<td valign="middle">
-  <img alt="Node.js" src="https://img.shields.io/badge/Node.js-1A1B26?style=for-the-badge&logo=nodedotjs&logoColor=9ECE6A" />
-  <img alt="FastAPI" src="https://img.shields.io/badge/FastAPI-1A1B26?style=for-the-badge&logo=fastapi&logoColor=9ECE6A" />
-  <img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-1A1B26?style=for-the-badge&logo=postgresql&logoColor=9ECE6A" />
-  <img alt="MongoDB" src="https://img.shields.io/badge/MongoDB-1A1B26?style=for-the-badge&logo=mongodb&logoColor=9ECE6A" />
-  <img alt="SQLite" src="https://img.shields.io/badge/SQLite-1A1B26?style=for-the-badge&logo=sqlite&logoColor=9ECE6A" />
-  <img alt="Supabase" src="https://img.shields.io/badge/Supabase-1A1B26?style=for-the-badge&logo=supabase&logoColor=9ECE6A" />
-  <img alt="Firebase" src="https://img.shields.io/badge/Firebase-1A1B26?style=for-the-badge&logo=firebase&logoColor=9ECE6A" />
-</td>
-</tr>
-<tr>
-<td width="150" valign="middle"><b>Tooling</b></td>
-<td valign="middle">
-  <img alt="Docker" src="https://img.shields.io/badge/Docker-1A1B26?style=for-the-badge&logo=docker&logoColor=FF9E64" />
-  <img alt="Git" src="https://img.shields.io/badge/Git-1A1B26?style=for-the-badge&logo=git&logoColor=FF9E64" />
-</td>
-</tr>
-</table>
-
----
-
-<!-- TODO(owner): seven placeholders below. Fill each one or delete the line before publishing. -->
-
-## Elsewhere
-
-- **Portfolio** — [deepanshuprtfl.vercel.app](https://deepanshuprtfl.vercel.app)
-- **Email** — `TODO: email`
-- **LinkedIn** — `TODO: linkedin handle`
-- **LeetCode** — `TODO: leetcode handle`
-- **GeeksforGeeks** — `TODO: geeksforgeeks handle`
-- **X / Twitter** — `TODO: handle, or delete this line — no account is configured yet`
-- **Currently learning** — `TODO: what you're learning`
-- **Fun fact** — `TODO: fun fact`
 
 <p align="center">
   <img alt="Profile views" src="https://komarev.com/ghpvc/?username=DeepanshuSagore&label=profile%20views&color=7aa2f7&style=flat-square" />
