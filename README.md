@@ -1,44 +1,185 @@
-<h1 align="center">Hi 👋, I'm Deepanshu Sagore</h1>
-<h3 align="center">Full-stack & GenAI developer from India</h3>
+<h1 align="center">Deepanshu Sagore</h1>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=DeepanshuSagore&label=Profile%20views&color=0e75b6&style=flat" alt="DeepanshuSagore" /> </p>
+<p align="center">Full-stack &amp; GenAI engineer · India</p>
 
-- 🔭 I’m currently working on [neuronest](https://github.com/DeepanshuSagore/neuronest) — a RAG service that answers only from retrieved context, with a hand-labelled eval set ([live](https://nestneuroai.vercel.app))
+<p align="center">RAG pipelines, FastAPI backends, Next.js front ends. Everything below is deployed.</p>
 
-- 🌱 I’m currently learning **`TODO: what you're learning`**
+<p align="center"><i>enslaved by narcissism and logical thinking.</i></p>
 
-- 👯 I’m looking to collaborate on **`TODO: what kind of projects`**
-
-- 🤝 I’m looking for help with **`TODO: or delete this line`**
-
-- 👨‍💻 All of my projects are available at [deepanshuprtfl.vercel.app](https://deepanshuprtfl.vercel.app)
-
-- 💬 Ask me about **React, Next.js, FastAPI, and RAG / retrieval evaluation**
-
-- 📫 How to reach me **`TODO: your email`**
-
-- 📄 Know about my experiences [`TODO: resume link`](https://deepanshuprtfl.vercel.app)
-
-- ⚡ Fun fact **`TODO: your fun fact`**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/TODO-handle" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="DeepanshuSagore" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/TODO-handle" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="DeepanshuSagore" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/TODO-handle" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="DeepanshuSagore" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/TODO-handle" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="DeepanshuSagore" height="30" width="40" /></a>
+<p align="center">
+  <a href="https://deepanshuprtfl.vercel.app"><img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-1A1B26?style=for-the-badge&logo=vercel&logoColor=7AA2F7" /></a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://vitejs.dev/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vitejs/vitejs-original.svg" alt="vite" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://threejs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/threejs/threejs-original.svg" alt="threejs" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://fastapi.tiangolo.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/fastapi/fastapi-original.svg" alt="fastapi" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> <a href="https://supabase.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/supabase/supabase-original.svg" alt="supabase" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> </p>
-
-<h3 align="left">GitHub stats:</h3>
-
-<p align="left"><img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=DeepanshuSagore&theme=github_dark" alt="DeepanshuSagore" /></p>
-
-<p align="left">
-<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=DeepanshuSagore&theme=github_dark" alt="DeepanshuSagore" />
-<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=DeepanshuSagore&theme=github_dark" alt="DeepanshuSagore" />
+<p align="center">
+  <b>21</b> public repos &nbsp;·&nbsp; <b>666</b> contributions since Oct 2024 &nbsp;·&nbsp; <b>291</b> commits &nbsp;·&nbsp; one patch merged into a <b>4,489★</b> repo
 </p>
 
-<p align="left"><img src="https://streak-stats.demolab.com/?user=DeepanshuSagore&theme=github-dark-blue" alt="DeepanshuSagore" /></p>
+---
+
+## Shipped
+
+<table>
+<tr>
+<td width="50%" valign="top">
+  <h3><a href="https://github.com/DeepanshuSagore/neuronest">neuronest</a></h3>
+  <p>A RAG service that answers only from retrieved context, with a hand-labelled evaluation set that measures retrieval quality separately from generation quality.</p>
+  <p><code>Python</code> &nbsp;·&nbsp; <a href="https://nestneuroai.vercel.app"><b>nestneuroai.vercel.app ↗</b></a></p>
+</td>
+<td width="50%" valign="top">
+  <h3><a href="https://github.com/DeepanshuSagore/Ethara">Ethara</a></h3>
+  <p>Seat allocation and project mapping for ~5,000 employees. FastAPI, Next.js, PostgreSQL 17, containerised with Compose, CI-tested against both SQLite and Postgres.</p>
+  <p><code>Python</code> &nbsp;·&nbsp; <a href="https://ethara-snowy.vercel.app"><b>ethara-snowy.vercel.app ↗</b></a></p>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+  <h3><a href="https://github.com/DeepanshuSagore/Aligna">Aligna</a></h3>
+  <p>AI talent scouting. Parses a job description, ranks candidates with a weighted matching engine, then simulates recruiter conversations. Next.js, FastAPI, Gemini, Groq.</p>
+  <p><code>TypeScript</code> &nbsp;·&nbsp; <a href="https://alignafr.vercel.app"><b>alignafr.vercel.app ↗</b></a></p>
+</td>
+<td width="50%" valign="top">
+  <h3><a href="https://github.com/DeepanshuSagore/ipl-cohost">ipl-cohost</a></h3>
+  <p>An AI co-host for live IPL matches. Next.js front end over a Python backend serving commentary, momentum and sentiment tracking, plus a fan poll and meme generator.</p>
+  <p><code>TypeScript</code> &nbsp;·&nbsp; <a href="https://ipl-cohost.vercel.app"><b>ipl-cohost.vercel.app ↗</b></a></p>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+  <h3><a href="https://github.com/DeepanshuSagore/Drive">Drive</a> <sub>(DriveFlow)</sub></h3>
+  <p>Real-time lead management CRM for a car dealership team. React, Vite, Supabase Realtime, weighted lead scoring, drag-and-drop pipeline, live analytics.</p>
+  <p><code>TypeScript</code> &nbsp;·&nbsp; <a href="https://drive-dusky-omega.vercel.app"><b>drive-dusky-omega.vercel.app ↗</b></a></p>
+</td>
+<td width="50%" valign="top">
+  <h3><a href="https://github.com/DeepanshuSagore/Frites">Frites</a></h3>
+  <p>Concept landing page for a luxury fries brand. Next.js, Lenis smooth scroll, Framer Motion, a scroll-driven image sequence hero.</p>
+  <p><code>TypeScript</code> &nbsp;·&nbsp; <a href="https://fritesfr.vercel.app"><b>fritesfr.vercel.app ↗</b></a></p>
+</td>
+</tr>
+</table>
+
+<details>
+<summary><b>Also running</b></summary>
+<br>
+<ul>
+  <li><a href="https://github.com/DeepanshuSagore/Cric-OS">Cric-OS</a> — AI personas of 16 cricket legends. <a href="https://cric-os.vercel.app">cric-os.vercel.app ↗</a></li>
+  <li><a href="https://github.com/DeepanshuSagore/tunnel-tube">tunnel-tube</a> — a Chrome extension that locks YouTube to one topic.</li>
+  <li><a href="https://github.com/DeepanshuSagore/ai_fintrack">ai_fintrack</a> — <a href="https://fintrack-finai.vercel.app">fintrack-finai.vercel.app ↗</a></li>
+  <li><a href="https://github.com/DeepanshuSagore/portfolio">portfolio</a> — React 19, Vite, anime.js. <a href="https://deepanshuprtfl.vercel.app">deepanshuprtfl.vercel.app ↗</a></li>
+</ul>
+</details>
+
+---
+
+## Upstream
+
+Two patches into codebases I use. One merged, one still waiting on review.
+
+| ★ | Repo | Patch | Status |
+| :--- | :--- | :--- | :--- |
+| **4,489★** | [Ebullioscopic/Atoll](https://github.com/Ebullioscopic/Atoll)<br><sub>Dynamic Island for macOS · Swift</sub> | [#725](https://github.com/Ebullioscopic/Atoll/pull/725) — Fix idle animation never rendering and collapsing the closed-notch hover hit area | **Merged** 2026-08-21<br><sub>2 files changed</sub> |
+| **24,310★** | [iv-org/invidious](https://github.com/iv-org/invidious)<br><sub>alternative front-end to YouTube · Crystal</sub> | [#5929](https://github.com/iv-org/invidious/pull/5929) — Render custom channel emoji in comments and descriptions | **Open**, not merged<br><sub>+167 −14 across 2 files</sub> |
+
+---
+
+## Volume
+
+Account created 2024-10-20. 17 repositories created in 2026.
+
+| | 2024 | 2025 | 2026 | Total |
+| :--- | ---: | ---: | ---: | ---: |
+| **Contributions** | 5 | 156 | 505 | **666** |
+| **Commits** | 1 | 37 | 253 | **291** |
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com/?user=DeepanshuSagore&theme=github-dark-blue&disable_animations=true" />
+    <img alt="Contribution streak for DeepanshuSagore" src="https://streak-stats.demolab.com/?user=DeepanshuSagore&theme=default&disable_animations=true" />
+  </picture>
+</p>
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=DeepanshuSagore&theme=github_dark" />
+    <img width="49%" alt="Repositories per language" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=DeepanshuSagore&theme=default" />
+  </picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=DeepanshuSagore&theme=github_dark" />
+    <img width="49%" alt="Most committed language" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=DeepanshuSagore&theme=default" />
+  </picture>
+</p>
+
+<details>
+<summary><b>Full profile summary</b></summary>
+<br>
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=DeepanshuSagore&theme=github_dark" />
+    <img alt="Profile details for DeepanshuSagore" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=DeepanshuSagore&theme=default" />
+  </picture>
+</p>
+</details>
+
+---
+
+## Stack
+
+<table>
+<tr>
+<td width="150" valign="middle"><b>Languages</b></td>
+<td valign="middle">
+  <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-1A1B26?style=for-the-badge&logo=typescript&logoColor=7AA2F7" />
+  <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-1A1B26?style=for-the-badge&logo=javascript&logoColor=7AA2F7" />
+  <img alt="Python" src="https://img.shields.io/badge/Python-1A1B26?style=for-the-badge&logo=python&logoColor=7AA2F7" />
+  <img alt="C++" src="https://img.shields.io/badge/C%2B%2B-1A1B26?style=for-the-badge&logo=cplusplus&logoColor=7AA2F7" />
+</td>
+</tr>
+<tr>
+<td width="150" valign="middle"><b>Front end</b></td>
+<td valign="middle">
+  <img alt="React" src="https://img.shields.io/badge/React-1A1B26?style=for-the-badge&logo=react&logoColor=BB9AF7" />
+  <img alt="Next.js" src="https://img.shields.io/badge/Next.js-1A1B26?style=for-the-badge&logo=nextdotjs&logoColor=BB9AF7" />
+  <img alt="Vite" src="https://img.shields.io/badge/Vite-1A1B26?style=for-the-badge&logo=vite&logoColor=BB9AF7" />
+  <img alt="Tailwind CSS" src="https://img.shields.io/badge/Tailwind-1A1B26?style=for-the-badge&logo=tailwindcss&logoColor=BB9AF7" />
+  <img alt="Three.js" src="https://img.shields.io/badge/Three.js-1A1B26?style=for-the-badge&logo=threedotjs&logoColor=BB9AF7" />
+  <img alt="Framer Motion" src="https://img.shields.io/badge/Framer%20Motion-1A1B26?style=for-the-badge&logo=framer&logoColor=BB9AF7" />
+</td>
+</tr>
+<tr>
+<td width="150" valign="middle"><b>Back end &amp; data</b></td>
+<td valign="middle">
+  <img alt="Node.js" src="https://img.shields.io/badge/Node.js-1A1B26?style=for-the-badge&logo=nodedotjs&logoColor=9ECE6A" />
+  <img alt="FastAPI" src="https://img.shields.io/badge/FastAPI-1A1B26?style=for-the-badge&logo=fastapi&logoColor=9ECE6A" />
+  <img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-1A1B26?style=for-the-badge&logo=postgresql&logoColor=9ECE6A" />
+  <img alt="MongoDB" src="https://img.shields.io/badge/MongoDB-1A1B26?style=for-the-badge&logo=mongodb&logoColor=9ECE6A" />
+  <img alt="SQLite" src="https://img.shields.io/badge/SQLite-1A1B26?style=for-the-badge&logo=sqlite&logoColor=9ECE6A" />
+  <img alt="Supabase" src="https://img.shields.io/badge/Supabase-1A1B26?style=for-the-badge&logo=supabase&logoColor=9ECE6A" />
+  <img alt="Firebase" src="https://img.shields.io/badge/Firebase-1A1B26?style=for-the-badge&logo=firebase&logoColor=9ECE6A" />
+</td>
+</tr>
+<tr>
+<td width="150" valign="middle"><b>Tooling</b></td>
+<td valign="middle">
+  <img alt="Docker" src="https://img.shields.io/badge/Docker-1A1B26?style=for-the-badge&logo=docker&logoColor=FF9E64" />
+  <img alt="Git" src="https://img.shields.io/badge/Git-1A1B26?style=for-the-badge&logo=git&logoColor=FF9E64" />
+</td>
+</tr>
+</table>
+
+---
+
+<!-- TODO(owner): seven placeholders below. Fill each one or delete the line before publishing. -->
+
+## Elsewhere
+
+- **Portfolio** — [deepanshuprtfl.vercel.app](https://deepanshuprtfl.vercel.app)
+- **Email** — `TODO: email`
+- **LinkedIn** — `TODO: linkedin handle`
+- **LeetCode** — `TODO: leetcode handle`
+- **GeeksforGeeks** — `TODO: geeksforgeeks handle`
+- **X / Twitter** — `TODO: handle, or delete this line — no account is configured yet`
+- **Currently learning** — `TODO: what you're learning`
+- **Fun fact** — `TODO: fun fact`
+
+<p align="center">
+  <img alt="Profile views" src="https://komarev.com/ghpvc/?username=DeepanshuSagore&label=profile%20views&color=7aa2f7&style=flat-square" />
+</p>
