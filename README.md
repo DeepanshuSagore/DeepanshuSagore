@@ -17,9 +17,10 @@
 <tr>
 <td width="150" valign="middle"><b>Languages</b></td>
 <td valign="middle">
-  <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-1A1B26?style=for-the-badge&logo=typescript&logoColor=7AA2F7" />
-  <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-1A1B26?style=for-the-badge&logo=javascript&logoColor=7AA2F7" />
   <img alt="Python" src="https://img.shields.io/badge/Python-1A1B26?style=for-the-badge&logo=python&logoColor=7AA2F7" />
+  <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-1A1B26?style=for-the-badge&logo=javascript&logoColor=7AA2F7" />
+  <img alt="SQL" src="https://img.shields.io/badge/SQL-1A1B26?style=for-the-badge&logo=sql&logoColor=7AA2F7" />
+  <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-1A1B26?style=for-the-badge&logo=typescript&logoColor=7AA2F7" />
   <img alt="C++" src="https://img.shields.io/badge/C%2B%2B-1A1B26?style=for-the-badge&logo=cplusplus&logoColor=7AA2F7" />
 </td>
 </tr>
