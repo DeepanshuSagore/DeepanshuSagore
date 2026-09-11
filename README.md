@@ -8,9 +8,6 @@
   <a href="mailto:deepanshusagore@gmail.com"><img alt="Email" src="https://img.shields.io/badge/-1A1B26?style=for-the-badge&logo=gmail&logoColor=7AA2F7" /></a>
 </p>
 
-<p align="center">
-  <b>21</b> public repos &nbsp;·&nbsp; <b>666</b> contributions since Oct 2024 &nbsp;·&nbsp; <b>291</b> commits &nbsp;·&nbsp; one patch merged into a <b>4,489★</b> repo
-</p>
 
 ---
 
