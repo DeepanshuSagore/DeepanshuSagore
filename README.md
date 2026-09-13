@@ -1,6 +1,6 @@
 <h1 align="center">Deepanshu Sagore</h1>
 
-<p align="center">Full-stack &amp; GenAI engineer · India</p
+<p align="center">Full-stack &amp; GenAI engineer · India</p>
 
 <p align="center">
   <a href="https://deepanshuprtfl.vercel.app"><img alt="Portfolio" src="https://img.shields.io/badge/-1A1B26?style=for-the-badge&logo=vercel&logoColor=7AA2F7" /></a>
